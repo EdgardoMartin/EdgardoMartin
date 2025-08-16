@@ -1,4 +1,4 @@
-#¡Hola! Soy Edgardo  
+# ¡Hola! Soy Edgardo  
 
 **Desarrollador de Software Multiplataforma**  
 Construyo soluciones modernas para **pequeños y medianos negocios**, con foco en simplicidad, rendimiento y escalabilidad.  
