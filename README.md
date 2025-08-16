@@ -3,8 +3,6 @@
 **Desarrollador de Software Multiplataforma**  
 Construyo soluciones modernas para **pequeños y medianos negocios**, con foco en simplicidad, rendimiento y escalabilidad.  
 
-## 🛠️ Tecnologías & Herramientas  
-
 ![Free Pascal](https://img.shields.io/badge/FreePascal-4E4E4E?style=for-the-badge&logo=code&logoColor=white) ![Lazarus](https://img.shields.io/badge/Lazarus_IDE-0A75AD?style=for-the-badge&logo=delphi&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![AlpineJS](https://img.shields.io/badge/AlpineJS-77C1D2?style=for-the-badge&logo=javascript&logoColor=black)  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ---
