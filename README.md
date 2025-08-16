@@ -23,7 +23,8 @@ Construyo soluciones modernas para **pequeños y medianos negocios**, con foco e
 
 ## Algunos de mis proyectos
 - **EL Comercio** → Software de gestión para pequeños negocios (productos, clientes, proveedores, caja e inventario).  
-- **EL WebEngine** → Framework liviano para crear aplicaciones web con Free Pascal.  
+- **EL WebEngine** → Framework liviano para crear aplicaciones web con Free Pascal.
+- **EL Sclatier** → Juego de adivinazas multiplataforma.
 
 *(Más proyectos en camino…)*
 
