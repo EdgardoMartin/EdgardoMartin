@@ -38,7 +38,7 @@ Si buscas un sistema confiable para tu negocio o un aliado para tu proyecto, **h
 
 ### 🌐 Encuéntrame en:
 - [Udemy](https://www.udemy.com/) – Cursos de programación en Free Pascal y Lazarus.  
-- [Youtube](https://www.youtube.com/@edgardomlopez) – Conexiones profesionales.  
+- [Youtube](https://www.youtube.com/@edgardomlopez) – Capacitación gratuíta.  
 - [Mi Web](https://elserviciotecnico.ddns.net/) – Soporte técnico especializado.
 - 📧 **Email:** delayargentina@gmail.com  
 
